@@ -1,7 +1,0 @@
-export const GET_POKEMONS = 'GET_POKEMONS';
-export const GET_TYPES = 'GET_TYPES';
-export const ADD_POKEMON = 'ADD_POKEMON';
-export const DELETE_POKEMON = 'DELETE_POKEMON';
-export const FILTERS = 'FILTERS';
-export const ORDER_POKEMONS = 'ORDER_POKEMONS';
-export const SEARCH_POKEMONS = 'SEARCH_POKEMONS';
